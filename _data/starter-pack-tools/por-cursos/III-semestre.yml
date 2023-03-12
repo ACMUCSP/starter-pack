@@ -1,14 +1,33 @@
-- nombre: "cursito"
+- nombre: "Arquitectura de Computadoras"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Mips
+      extra: Programación en ensamblador MIPS
+    - nombre: Circuitverse
+      enlace: https://circuitverse.org
+- nombre: "Álgebra Abstracta"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Criptografía
+    - nombre: Pildoras formativas Criptored
+      enlace: https://youtube.com/playlist?list=PL27jKxcS0LVwiGz7I8Ko3YW9vmJzT1XKM
+    - nombre: NTL ZZ
+      enlace: https://libntl.org/doc/tour-ex1.html
+      extra: Libreria para trabajar con enteros grandes
+    - nombre: Otros temas
+      extra: Teoría de enteros, teoría de grupos
+- nombre: "Desarrollo Basado en Plataformas"
+  herramientas:
+    - nombre: Web
+      extra: Aprende programación web
+    - nombre: MVC
+      extra: Modelo vista controlador
+    - nombre: Font Awesome (icons)
+      enlace: https://fontawesome.com/icons
+- nombre: "Apreciación Artística"
+  herramientas:
+    - nombre: Materiales de arte
+      extra: No es un curso solo teórico, realmente vas a pintar
+- nombre: "Cálculo I"
+  herramientas:
+    - nombre: Derivadas e integrales
+    - nombre: Herramientas del área de matemáticas
+      enlace: ../matematica

@@ -1,14 +1,40 @@
-- nombre: "cursito"
+- nombre: "AED - Algoritmos y Estructuras de Datos"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Pizarra
+      enlace: https://jamboard.google.com
+    - nombre: Microsoft Whiteboard
+      enlace: https://www.microsoft.com/es-ww/microsoft-365/microsoft-whiteboard/digital-whiteboard-app
+    - nombre: Estructuras de datos
+    - nombre: Punteros
+      extra: La vida se basa en punteros
+    - nombre: Binary tree
+      enlace: https://www.cs.usfca.edu/~galles/visualization/BST
+      extra: Herramienta para visualizar árbol binario, inserción y eliminación
+    - nombre: AVL tree
+      enlace: https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+- nombre: "Teoria de la Computación"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Automatas
+    - nombre: Demostraciones NP completo
+- nombre: "Base de Datos I"
+  herramientas:
+    - nombre: SQL
+    - nombre: Modelos relacionales
+    - nombre: Oracle live
+      enlace: https://livesql.oracle.com
+      extra: Permite trabajar tu base de datos online
+- nombre: "Cálculo II"
+  herramientas:
+    - nombre: Octave
+      enlace: https://octave.org
+    - nombre: Segunda derivadas
+    - nombre: Herramientas del área de matemáticas
+      enlace: ../matematica
+- nombre: "Cálculo II"
+  herramientas:
+    - nombre: Geogebra
+      enlace: https://www.geogebra.org/classic
+    - nombre: Octave
+      enlace: https://octave.org
+    - nombre: Herramientas del área de matemáticas
+      enlace: ../matematica
