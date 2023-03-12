@@ -3,7 +3,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-# Sobre
+# Starter Pack
 
 ¡Hi there! Pequeño saltamontes estudiante de ciencia de la computación. Esta aventura fascinante a la que te has embarcado te permite aprender sobre programación, análisis de datos, redes, diseño web y mucho más.
 
