@@ -1,19 +1,15 @@
 - title: Herramientas
-  url: pages
+  url: pages/herramientas/uso-general
   links:
     - title: "Uso general"
-      url: pages
+      url: pages/herramientas/uso-general
     - title: "Por semestre"
-      url: pages
-      links:
+      url: pages/herramientas/por-semestre
+      children:
         - title: "I Semestre"
-          url: "pages/herramientas/I-semestre"
-        - title: "II Semestre"
-          url: "pages/herramientas/I-semestre"
-        - title: "III Semestre"
-          url: "pages/herramientas/I-semestre"
-        - title: "IV Semestre"
-          url: "pages/herramientas/I-semestre"
+          url: "pages/herramientas/por-semestre#I-semestre"
+    - title: "Matemática"
+      url: pages/herramientas/matematica
 - title: Documentation
   url: docs
   links:
