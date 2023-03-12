@@ -1,0 +1,43 @@
+- title: Herramientas
+  url: pages
+  links:
+    - title: "Uso general"
+      url: pages
+    - title: "Por semestre"
+      url: pages
+      links:
+        - title: "I Semestre"
+          url: "pages/herramientas/I-semestre"
+        - title: "II Semestre"
+          url: "pages/herramientas/I-semestre"
+        - title: "III Semestre"
+          url: "pages/herramientas/I-semestre"
+        - title: "IV Semestre"
+          url: "pages/herramientas/I-semestre"
+- title: Documentation
+  url: docs
+  links:
+    - title: "Getting Started"
+      url: "docs/getting-started"
+      children:
+        - title: Features
+          url: "docs/getting-started#getting-started"
+        - title: Development
+          url: "docs/getting-started#development"
+        - title: Customization
+          url: "docs/getting-started#customization"
+    - title: Versioning
+      url: "docs/versioning"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
+- title: "Extras"
+  url: "docs/extras"
+  links:
+    - title: Quizzes
+      url: "docs/extras/example-quiz"
+    - title: Tags Page
+      url: "tags"
+- title: "Sandbox"
+  url: "pages/sandbox"

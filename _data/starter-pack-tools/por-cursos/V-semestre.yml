@@ -1,0 +1,14 @@
+- nombre: "cursito"
+  herramientas:
+    - nombre: Wordreference
+      enlace: https://www.wordreference.com/
+      descripcion: Lorem ipsum
+    - nombre: Deepl translate
+      enlace: https://www.deepl.com/es/translator
+- nombre: "cursito2"
+  herramientas:
+    - nombre: Wordreference
+      enlace: https://www.wordreference.com/
+      descripcion: Lorem ipsum
+    - nombre: Deepl translate
+      enlace: https://www.deepl.com/es/translator
