@@ -1,11 +1,10 @@
 ---
-title: De uso general
+title: Herramientas del área de matematicas
 sitemap: true
 ---
 
 # Starter Pack - Área de matemáticas
-## Herramientas
-{% for curso in site.data.starter-pack-tools.matematicas %}
+{% for curso in site.data.starter-pack-tools.matematica %}
 
 ### {{ curso.nombre }}
 

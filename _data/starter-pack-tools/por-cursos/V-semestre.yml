@@ -1,14 +1,49 @@
-- nombre: "cursito"
+- nombre: "Fisica Computacional"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Libros de física
+      extra: Útiles para resolver más ejercicios y prácticar
+    - nombre: Sears Zemanzki
+    - nombre: Halliday
+    - nombre: Serway
+    - nombre: Tipler Mosca
+    - nombre: Walker
+    - nombre: Wolfgang Bauer
+- nombre: "ADA - Análisis de Algoritmos"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Introduction to algorithms - Cormen
+      extra: Libro base del curso
+    - nombre: Sorts
+      extra: Algoritmos
+    - nombre: Complejidad computacional
+    - nombre: Fourier Kalman
+    - nombre: Problema NP
+    - nombre: Computacion cuantica
+      extra: Trabajo de investigación
+    - nombre: Qiskit
+      enlace: https://qiskit.org
+      extra: Plataforma open source que te permitira aprender y desarrollar computación cuántica
+- nombre: "Base de Datos II"
+  herramientas:
+    - nombre: Postgresql
+      enlace: https://www.postgresql.org
+    - nombre: Vistas de sql
+    - nombre: Consultas, Indexacion y Join
+    - nombre: Corpus de Google
+    - nombre: SGBD CRUD
+      enlace: Sistema Gestor de Base de Datos
+- nombre: "Ing de Software I"
+  herramientas:
+    - nombre: Web
+    - nombre: UML
+      extra: diagramas de casos de uso, secuencias y clases
+    - nombre: Mockups
+    - nombre: Figma
+      enlace: https://www.figma.com
+    - nombre: Diapositivas del curso
+      enlace: https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Presentations/index.html
+- nombre: "Análisis Numérico"
+  herramientas:
+    - nombre: Octave
+      enlace: https://octave.org
+    - nombre: Herramientas del área de matemáticas
+      enlace: ../matematica

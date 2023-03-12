@@ -1,0 +1,12 @@
+- nombre: Herramientas del área de matemáticas
+  herramientas:
+    - nombre: Octave
+      enlace: https://octave.org
+    - nombre: Geogebra
+      enlace: https://www.geogebra.org/classic
+    - nombre: Symbolab
+      enlace: https://es.symbolab.com/
+    - nombre: Desmos
+      enlace: https://www.desmos.com/calculator?lang=es
+    - nombre: Wolfram Alpha
+      enlace: https://www.wolframalpha.com
