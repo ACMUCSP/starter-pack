@@ -1,0 +1,23 @@
+- nombre: Intro a la Ciencia de la Computación	
+  herramientas:
+    - nombre: Creación de pag web
+      enlace: https://youtu.be/sLTNgxxSBR4
+    - nombre: Computer Science an Overview 13th edition
+      extra: Libro, la edición más reciente actualmente es la 13va edición
+    - nombre: Otros
+      extra: Multiplicacion en diferentes bases, Conceptos de computacion, Threads en python
+- nombre: Estructuras Discretas II	
+  herramientas:
+    - nombre: Teoría de grafos
+    - nombre: Búsqueda en grafos
+    - nombre: Recurrencia
+- nombre: Ciencia de la Computación I	
+  herramientas:
+    - nombre: Clases, herencia, polimorfismo
+    - nombre: C++
+    - nombre: Base de punteros
+- nombre: Matemática II	
+  herramientas:
+    - nombre: Matrices, vectores
+    - nombre: Geogebra
+      enlace: https://www.geogebra.org/classic

@@ -1,14 +1,27 @@
-- nombre: "cursito"
+- nombre: "Programación de Videojuegos"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Pygame
+      enlace: https://www.pygame.org/news
+    - nombre: Python
+      enlace: https://www.python.org/
+    - nombre: Página de recursos graficos
+      enlace: https://itch.io/game-assets/free
+- nombre: "Estructuras Discretas I"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Discrete mathematics and its applications - Rosen 7ma edicion
+    - nombre: Discrete mathematics and its applications - Grimaldi 5ta edicion
+    - nombre: Demostraciones, Álgebra Booleana
+- nombre: "Metodologia del estudio"
+  herramientas:
+    - nombre: Comandos de latex
+      enlace:	https://manualdelatex.com/tutoriales
+- nombre: "Matemática I	"
+  herramientas:
+    - nombre: Geogebra
+      enlace: https://www.geogebra.org/classic?lang=es
+    - nombre: Symbolab
+      enlace: https://es.symbolab.com/
+    - nombre: Desmos
+      enlace: https://www.desmos.com/calculator?lang=es
+    - nombre: Otros temas
+      extra: Inecuaciones, Logaritmos, Números imaginarios, Logica proposicional

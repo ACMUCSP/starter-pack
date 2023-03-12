@@ -5,9 +5,9 @@ sitemap: true
 
 {% for item in site.data.starter-pack-tools.uso-general %}
 
-{{ item.title }} <br>
-<a href="{{ item.link }}">
-  {{ item.link }}
+{{ item.nombre }} <br>
+<a href="{{ item.enlace }}">
+  {{ item.enlace }}
 </a>
 
 {% endfor %}

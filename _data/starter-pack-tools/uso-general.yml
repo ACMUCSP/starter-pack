@@ -1,9 +1,75 @@
-- title: Wordreference
-  link: https://www.wordreference.com/
-  descripcion: Lorem ipsum
-- title: Deepl translate
-  link: https://www.deepl.com/es/translator
-  descripcion: Lorem ipsum
-- title: Stackoverflow
-  link: https://stackoverflow.com/
-  descripcion: Lorem ipsum
+- nombre: General
+  herramientas: 
+  - nombre: Wordreference
+    enlace: https://www.wordreference.com/ 
+  - nombre: Deepl translate
+    enlace: https://www.deepl.com/es/translator 
+  - nombre: Stackoverflow
+    enlace: https://stackoverflow.com/ 
+  - nombre: Geekforgeeks
+    enlace: https://www.geeksforgeeks.org/ 
+  - nombre: Replit
+    enlace: https://replit.com/ 
+  - nombre: Overleaf
+    enlace: https://www.overleaf.com/ 
+  - nombre: Visual Studio Community 
+    enlace: https://visualstudio.microsoft.com/es/vs/community/ 
+  - nombre: Quora
+    enlace: https://es.quora.com/ 
+  - nombre: Github
+    enlace: https://github.com/ 
+  - nombre: w3schools
+    enlace: https://www.w3schools.com/ 
+  - nombre: LucidChart
+    enlace: https://www.lucidchart.com/pages/es 
+  - nombre: Canva
+    enlace: https://www.canva.com/ 
+  - nombre: Slidesgo
+    enlace: https://slidesgo.com/ 
+  - nombre: Discord
+    enlace: https://discord.com/ 
+  - nombre: Colab
+    enlace: https://colab.research.google.com/ 
+  - nombre: Jupyter
+    enlace: https://jupyter.org/ 
+  - nombre: Bootstrap
+    enlace: https://getbootstrap.com/  
+  - nombre: CplusplusReference
+    enlace: https://cplusplus.com/reference/
+  - nombre: Visual Studio Code
+    enlace: https://code.visualstudio.com/
+  - nombre: Comandos de latex
+    enlace:	https://manualdelatex.com/tutoriales
+- nombre: "Articulos cientificos"
+  herramientas:
+  - nombre: Scihub
+    enlace: https://sci-hub.ru/
+    extra: Permite acceder a diferentes articulos
+  - nombre: Libgen
+    enlace: http://libgen.is 
+  - nombre: Google Scholar
+    enlace: https://scholar.google.com 
+  - nombre: ACM
+    enlace: https://dl.acm.org/ 
+  - nombre: IEEE
+    enlace: https://ieeexplore.ieee.org/Xplore/home.jsp 
+  - nombre: Springer
+    enlace: https://link.springer.com/ 
+  - nombre: ElSevier
+    enlace: https://www.sciencedirect.com 
+  - nombre: Researchgate
+    enlace: https://www.researchgate.net/directory/publications
+- nombre: "Cursos Libres"
+  herramientas:
+  - nombre: OCW MIT
+    enlace: https://ocw.mit.edu
+  - nombre: Standford Online
+    enlace: https://online.stanford.edu/free-courses
+  - nombre: Coursera
+    enlace: https://es.coursera.org
+  - nombre: Udemy
+    enlace: https://www.udemy.com/
+  - nombre: Edx
+    enlace: https://www.edx.org/es
+  - nombre: Datacamp
+    enlace: https://www.datacamp.com/
