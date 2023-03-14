@@ -3,7 +3,7 @@ title: De uso general
 sitemap: true
 ---
 
-# Starter Pack - Herramientaos de Uso General
+# Starter Pack - Herramientas de Uso General
 ## Herramientas
 {% for curso in site.data.starter-pack-tools.uso-general %}
 

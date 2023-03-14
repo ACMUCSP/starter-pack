@@ -51,7 +51,7 @@ feedback: true
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-# logo: "assets/img/logo/SRCC-square-red.png"
+logo: "assets/img/logo-starter-pack.png"
 logo_pixels: 34
 color: "#008080"
 # color: "#8c1515" # primary color for header, buttons
