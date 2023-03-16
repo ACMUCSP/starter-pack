@@ -1,14 +1,40 @@
-- nombre: "cursito"
+- nombre: "Sistemas Operativos"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Operating Systems Concepts 10ma
+      enlace: https://www.os-book.com/OS10/
+      descripcion: Libro del curso.
+    - nombre: Operating Systems MIT OCW
+      enlace: https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/
+      descripcion: Curso del MIT gratis (complemento).
+- nombre: "Estructuras de Datos Avanzadas 📛"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Advanced Data Structures MIT OCW
+      enlace: https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/
+      descripcion: Curso del MIT gratis (complemento).
+    - nombre: R-Tree paper original
+      enlace: http://www-db.deis.unibo.it/courses/SI-LS/papers/Gut84.pdf
+      descripcion: Estructura de datos que si o si se estudia en el curso.
+- nombre: "Ingeniería de Software II 📛"
+  herramientas:
+    - nombre: PMB Book
+      enlace: https://www.sydle.com/es/blog/pmbok-61e80383f41fbf069eb3ef2b
+      descripcion: Libro para la gestión de proyectos, se verán algunos capítulos en el curso no todos.
+    - nombre: Recursos para el aprender desarrollo web
+      enlace: https://www.freecodecamp.org/news/tag/web-development/
+      descripcion: Se recomienda aprender haciendo un proyecto y tenerlo listo como plantilla porque no todo se puede aprender en un semestre, más abajo hay más recursos sobre proyectos full stack.
+    - nombre: UML Tutorial Español
+      enlace: https://www.youtube.com/watch?v=-OWd0tJAK10&list=PLM-p96nOrGcaw5dhv8wOA5tVVWEmXtA2F
+      descripcion: Tutorial en español de los diagramas UML.
+    - nombre: UML Tutorial Inglés
+      enlace: https://www.youtube.com/watch?v=WnMQ8HlmeXc
+      descripcion: Tutorial en inglés de los diagramas UML (recomiendo ver este para practicar tu inglés).
+    - nombre: StarUML
+      enlace: https://staruml.io/
+      descripcion: Herramienta para hacer diagramas UML (interfaz gráfica).
+    - nombre: PlantUML
+      enlace: https://plantuml.com/en/
+      descripcion: Herramienta para hacer diagramas UML (mediante comandos en texto).
+    - nombre: Aplicación Full Stack YT
+      enlace: https://youtu.be/k4lHXIzCEkM
+      descripcion: Tutorial de aplicación full stack, no es necesario acabarla toda, siganlo como plantilla para el trabajo final.
+        
