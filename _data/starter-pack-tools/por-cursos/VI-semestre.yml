@@ -37,4 +37,48 @@
     - nombre: Aplicación Full Stack YT
       enlace: https://youtu.be/k4lHXIzCEkM
       descripcion: Tutorial de aplicación full stack, no es necesario acabarla toda, siganlo como plantilla para el trabajo final.
-        
+    - nombre: Aplicación Full Stack YT
+      enlace: https://youtu.be/k4lHXIzCEkM
+      descripcion: Tutorial de aplicación full stack, no es necesario acabarla toda, siganlo como plantilla para el trabajo final.
+- nombre: "Programación Competitiva"
+  herramientas:
+    - nombre: CSES
+      enlace: https://cses.fi/problemset/list/
+      descripcion: Lista de problemas.
+    - nombre: Code Chef
+      enlace: https://www.codechef.com/
+      descripcion: Juez online, problemas y torneos.
+    - nombre: Codeforces
+      enlace: https://codeforces.com/
+      descripcion: Juez online, problemas y torneos.
+    - nombre: AtCoder
+      enlace: https://atcoder.jp/
+      descripcion: Juez online, problemas y torneos.
+    - nombre: LeetCode
+      enlace: https://leetcode.com/
+      descripcion: Juez online, problemas y torneos (problemas para entrevistas de trabajo).
+    - nombre: Algorithms for Competitive Programming
+      enlace: https://cp-algorithms.com/
+      descripcion: Algoritmos para competitiva con su explicación.
+    - nombre: Competitive Programming Book
+      enlace: https://cpbook.net/
+      descripcion: Libro de referencia.
+- nombre: "Matemática Aplicada a la Computación"
+  herramientas:
+    - nombre: Sagemath
+      enlace: https://www.sagemath.org/
+      descripcion: Software para modelar matemáticas.
+    - nombre: Elementary linear algebra 11th edition
+      enlace: https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/037-Elementary-Linear-Algebra-Applications-Version-Howard-Anton-Chris-Rorres-Edisi-1-2013.pdf
+      descripcion: Libro referencial.
+    - nombre: WolframAlpha
+      enlace: https://www.wolframalpha.com/
+      descripcion: Aplicación web para resolver problemas basada en IA.
+    - nombre: Octave
+      enlace: https://octave.org/
+      descripcion: Software Open Source (mathlab gratis).
+- nombre: "Oratoria"
+  herramientas:
+    - nombre: Pida la palabra libro
+      enlace: https://pdfcoffee.com/pida-la-palabra-de-alan-garciadocx-3-pdf-free.html
+      descripcion: Libro referencial.
