@@ -21,8 +21,8 @@
             <br>
         {%- endif -%}
 
-        {%- if herramienta.extra -%}
-            {{ herramienta.extra }} <br>
+        {%- if herramienta.descripcion -%}
+            {{ herramienta.descripcion }} <br>
         {%- endif -%}
 
     {%- endif -%}
