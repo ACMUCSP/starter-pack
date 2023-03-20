@@ -1,14 +1,32 @@
-- nombre: "cursito"
+- nombre: "Computación en la Sociedad"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
+- nombre: "Interacción Humano Computador (IHC)"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Unity Learn
+      enlace: https://unity.com/learn
+      descripcion: Unity provee cursos gratis para aprender a desarrollar videojuegos.
+    - nombre: Magic Leap 1 developer tutorials
+      enlace: https://ml1-developer.magicleap.com/en-us/learn/guides
+      descripcion: Tutoriales para desarrollar en el magic leap 1, ya que es el que tiene disponible el departamento.
+- nombre: "Compiladores"
+  herramientas:
+    - nombre: Engineering a compiler
+      enlace: https://dl.acm.org/doi/pdf/10.5555/2737838
+      descripcion: Libro de referencia para el curso.
+    - nombre: Parser online de gramáticas
+      enlace: https://smlweb.cpsc.ucalgary.ca/start.html
+      descripcion: Verifica que tu gramática sea LL1 y genera la tabla de parseo.
+    - nombre: Parser online de gramáticas
+      enlace: https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/
+      descripcion: Verifica que tu gramática sea LL1 y genera la tabla de parseo.
+- nombre: "Seguridad en"
+  herramientas:
+    - nombre: Engineering a compiler
+      enlace: https://dl.acm.org/doi/pdf/10.5555/2737838
+      descripcion: Libro de referencia para el curso.
+    - nombre: Parser online de gramáticas
+      enlace: https://smlweb.cpsc.ucalgary.ca/start.html
+      descripcion: Verifica que tu gramática sea LL1 y genera la tabla de parseo.

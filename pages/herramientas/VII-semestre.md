@@ -15,7 +15,7 @@
         **{{ herramienta.nombre }}** <br>
 
         {%- if herramienta.enlace -%}
-            <a href="{{ herramienta.enlace }}">
+            <a href="{{ herramienta.enlace }}" target="_blank">
                 {{ herramienta.enlace }}
             </a>
             <br>

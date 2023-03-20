@@ -47,3 +47,13 @@
     - nombre: Learn Haskell
       enlace: http://learnyouahaskell.com/introduction
       descripcion: Página web para aprender Haskell con ejemplos de código.
+- nombre: "Metodología de la investigación"
+  herramientas:
+    - nombre: "How to Start a Research Work in Computer Science: A Framework For Beginners"
+      enlace: https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:231841&datastreamId=FULL-TEXT.PDF
+      descripcion: Paper guía para empezar en la investigación en ciencia de la computación, te ayuda a escoger tu tema de investigación.
+- nombre: "Liderazgo"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
