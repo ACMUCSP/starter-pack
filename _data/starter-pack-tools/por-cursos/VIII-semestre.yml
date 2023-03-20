@@ -22,11 +22,35 @@
     - nombre: Parser online de gramáticas
       enlace: https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1/
       descripcion: Verifica que tu gramática sea LL1 y genera la tabla de parseo.
-- nombre: "Seguridad en"
+- nombre: "Seguridad en Computación"
   herramientas:
-    - nombre: Engineering a compiler
-      enlace: https://dl.acm.org/doi/pdf/10.5555/2737838
-      descripcion: Libro de referencia para el curso.
-    - nombre: Parser online de gramáticas
-      enlace: https://smlweb.cpsc.ucalgary.ca/start.html
-      descripcion: Verifica que tu gramática sea LL1 y genera la tabla de parseo.
+    - nombre: Seedlabs
+      enlace: https://seedsecuritylabs.org/labs.html
+      descripcion: Portal educativo para aprender seguridad en computación.
+    - nombre: "Computer Security: Principles and Practice"
+      enlace: http://www.cs.unibo.it/babaoglu/courses/security/resources/documents/Computer_Security_Principles_and_Practice_(3rd_Edition).pdf
+      descripcion: Libro referencial para el curso (el enlace es la tercera edición del libro).
+- nombre: "Computación paralela y Distribuida"
+  herramientas:
+    - nombre: An Introduction to Parallel Programming
+      enlace: http://www.e-tahtam.com/~turgaybilgin/2013-2014-guz/ParalelProgramlama/ParallelProg.pdf
+      descripcion: Libro referencial para la primera parte del curso (antes de parciales).
+    - nombre: Programming Massively Parallel Processors
+      enlace: https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_programming_massively_parallel_processors_a_hands-on_approach_2nd.pdf
+      descripcion: Libro referencial para la segunda parte del curso (después de parciales).
+- nombre: "Proyecto Final de Carrera I"
+  herramientas:
+    - nombre: Google scholar
+      enlace: https://scholar.google.com/
+      descripcion: Buscador de artículos científicos.
+    - nombre: Arxiv
+      enlace: https://arxiv.org/
+      descripcion: Repositorio online de artículos académicos libre de derechos.
+    - nombre: JSTOR
+      enlace: https://www.jstor.org/
+      descripcion: Buscador de artículos científicos.
+- nombre: "Historia de la cultura"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
