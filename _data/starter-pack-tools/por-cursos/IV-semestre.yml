@@ -30,7 +30,7 @@
     - nombre: Segunda derivadas
     - nombre: Herramientas del área de matemáticas
       enlace: ../matematica
-- nombre: "Cálculo II"
+- nombre: "Estadística y probabilidades"
   herramientas:
     - nombre: Geogebra
       enlace: https://www.geogebra.org/classic
