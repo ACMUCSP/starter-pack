@@ -1,14 +1,59 @@
-- nombre: "cursito"
+- nombre: "Redes y Comunicación"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Computer Networking a Top-Down Approach libro
+      enlace: https://drive.google.com/file/d/0B7jvyYoYJWvSdkZwY0R5UFhTRjg/view?resourcekey=0-q8mht8Q5uHLTWpgeuYvBNw
+      descripcion: Libro de referencia para el curso.
+    - nombre: Beej's Guide to Network Programming
+      enlace: https://beej.us/guide/bgnet/
+      descripcion: Guía breve de programación con sockets TCP/UDP (súper recomendado y con ejemplos de código).
+- nombre: "Computación Gráfica 📛"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: LearnOpengl
+      enlace: https://learnopengl.com
+      descripcion: Página web para aprender OpenGL (el primer capítulo es suficiente para aprobar el curso).
+    - nombre: Solvers para el cubo de rubik
+      enlace: https://github.com/topics/rubiks-cube-solver
+      descripcion: El proyecto final hasta ahora ha sido el cubo de rubik, chequea el repo que más te guste.
+    - nombre: Tutoriales OpenGL
+      enlace: http://www.songho.ca/opengl/index.html
+      descripcion: Tutoriales extra para OpenGL con matemáticas explicadas.
+- nombre: "Inteligencia Artificial"
+  herramientas:
+    - nombre: Google Colab
+      enlace: https://colab.research.google.com
+      descripcion: Notebook online para programar, con librerías de AI preinstaladas.
+    - nombre: Clips
+      enlace: https://www.clipsrules.net
+      descripcion: Herramienta para crear sistemas expertos.
+    - nombre: Curso del MIT
+      enlace: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/
+      descripcion: Curso del MIT gratis con temas similares al curso, recomendado para complementar.
+- nombre: "Ingeniería de Software III"
+  herramientas:
+    - nombre: Diapositivas
+      enlace: https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Presentations/index.html
+      descripcion: Diapositivas para el curso.
+- nombre: "Lenguajes de programación"
+  herramientas:
+    - nombre: Intérprete de Haskell
+      enlace: https://www.haskell.org/hugs/pages/downloading-May2006.htm
+      descripcion: Instaladores para el intérprete.
+    - nombre: Prolog
+      enlace: https://www.swi-prolog.org
+      descripcion: Lenguaje de programación.
+    - nombre: Haskell Replit
+      enlace: https://replit.com/languages/haskell
+      descripcion: Haskell online (recomendado).
+    - nombre: Learn Haskell
+      enlace: http://learnyouahaskell.com/introduction
+      descripcion: Página web para aprender Haskell con ejemplos de código.
+- nombre: "Metodología de la investigación"
+  herramientas:
+    - nombre: "How to Start a Research Work in Computer Science: A Framework For Beginners"
+      enlace: https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:231841&datastreamId=FULL-TEXT.PDF
+      descripcion: Paper guía para empezar en la investigación en ciencia de la computación, te ayuda a escoger tu tema de investigación.
+- nombre: "Liderazgo"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...

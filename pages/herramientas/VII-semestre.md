@@ -15,14 +15,14 @@
         **{{ herramienta.nombre }}** <br>
 
         {%- if herramienta.enlace -%}
-            <a href="{{ herramienta.enlace }}">
+            <a href="{{ herramienta.enlace }}" target="_blank">
                 {{ herramienta.enlace }}
             </a>
             <br>
         {%- endif -%}
 
-        {%- if herramienta.extra -%}
-            {{ herramienta.extra }} <br>
+        {%- if herramienta.descripcion -%}
+            {{ herramienta.descripcion }} <br>
         {%- endif -%}
 
     {%- endif -%}

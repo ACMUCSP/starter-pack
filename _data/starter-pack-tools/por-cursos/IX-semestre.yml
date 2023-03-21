@@ -1,14 +1,57 @@
-- nombre: "cursito"
+- nombre: "Computación Molecular Biológica"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
-- nombre: "cursito2"
+    - nombre: Handbook of Computational Molecular Biology. Computer and Information Science
+      enlace: https://biotechcafe.files.wordpress.com/2015/06/ebooksclub-org__handbook_of_computational_molecular_biology.pdf
+      descripcion: Libro de referencia para el curso.
+- nombre: "Tópicos Avanzados en computación gráfica"
   herramientas:
-    - nombre: Wordreference
-      enlace: https://www.wordreference.com/
-      descripcion: Lorem ipsum
-    - nombre: Deepl translate
-      enlace: https://www.deepl.com/es/translator
+    - nombre: Datos abiertos del Perú
+      enlace: https://www.datosabiertos.gob.pe/
+      descripcion: Dataset libre de diferentes entidades gubernamnetales en el Perú (puedes usarlo para el proyecto final).
+- nombre: "Tópicos avanzados en inteligencia artificial"
+  herramientas:
+    - nombre: Intro to deep learning YT (MIT)
+      enlace: https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+      descripcion: Curso de introducción a los principales modelos usados en deep learning del MIT.
+    - nombre: Andrew NG machine learning course YT
+      enlace: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+      descripcion: Curso de machine learning súper recomendado para todo el curso.
+- nombre: "Big Data"
+  herramientas:
+    - nombre: Confluent Kafka Book
+      enlace: https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf
+      descripcion: Libro para la exposición de Kafka.
+    - nombre: Setup Spark Cluster
+      enlace: https://medium.com/ymedialabs-innovation/apache-spark-on-a-multi-node-cluster-b75967c8cb2b
+      descripcion: Cómo levantar un cluster de Spark en ubuntu.
+    - nombre: Setup Hadoop Cluster
+      enlace: https://medium.com/@jootorres_11979/how-to-set-up-a-hadoop-3-2-1-multi-node-cluster-on-ubuntu-18-04-2-nodes-567ca44a3b12
+      descripcion: Cómo levantar un cluster de Hadoop en ubuntu.
+- nombre: "Tópicos en Ingeniería de software"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
+- nombre: "Proyecto final de carrera II"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
+- nombre: "Formación de empresas de base tecnológica I"
+  herramientas:
+    - nombre: Lean Startup
+      enlace: https://theleanstartup.com/
+      descripcion: Libro referencial del curso y muy recomendado si te gustan estos temas.
+    - nombre: Running Lean Startup
+      enlace: https://theoffice.pe/wp-content/uploads/Running%20Lean.pdf
+      descripcion: Libro referencial del curso se realizarán algunas actividades de este libro.
+- nombre: "Historia de la ciencia y tecnología"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
+- nombre: "Enseñanza social de la iglesia"
+  herramientas:
+    - nombre: Por completar...
+      enlace: 
+      descripcion: Por completar...
