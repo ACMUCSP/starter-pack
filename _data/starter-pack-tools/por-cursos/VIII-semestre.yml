@@ -30,7 +30,7 @@
     - nombre: "Computer Security: Principles and Practice"
       enlace: http://www.cs.unibo.it/babaoglu/courses/security/resources/documents/Computer_Security_Principles_and_Practice_(3rd_Edition).pdf
       descripcion: Libro referencial para el curso (el enlace es la tercera edición del libro).
-- nombre: "Computación paralela y Distribuida"
+- nombre: "Computación Paralela y Distribuida"
   herramientas:
     - nombre: An Introduction to Parallel Programming
       enlace: http://www.e-tahtam.com/~turgaybilgin/2013-2014-guz/ParalelProgramlama/ParallelProg.pdf
